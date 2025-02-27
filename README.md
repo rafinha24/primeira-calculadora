@@ -1,3 +1,3 @@
-quinta: dispositos moveis, programação pra calular
-quarta: 
-sexta: interfasse humano computador 
+## quinta: dispositos moveis, programação pra calular
+## quarta: 
+## sexta: interfasse humano computador 
